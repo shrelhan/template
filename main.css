@@ -80,3 +80,7 @@ body, html {
 .sol2 {
   padding: 50px 0px 10px 0px;
 }
+
+.d-block {
+  min-height: 50%;
+}
