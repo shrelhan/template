@@ -14,7 +14,7 @@
 
 .white {
     color: #2e93c7;
-}                         
+}
 
 .card{
     border: none;
@@ -22,8 +22,8 @@
 
 .card-img-top {
     padding: 50px 20px 50px 20px;
-    width: 50%;
-    height: 75%;
+    width: 75%;
+    height: 15.5vw;
     align-self: center;
 
 }
